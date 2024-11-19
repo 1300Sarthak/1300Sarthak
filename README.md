@@ -4,11 +4,10 @@ I'm passionate about software engineering, AI, and machine learning, with a focu
 
 ## Skills
 
-- **Programming Languages**: Python, Java, SQL, JavaScript, HTML5, CSS
-- **Frameworks**: SciPy, NumPy, Pandas, Flask
-- **Tools & Technologies**: Git, GitHub, Firebase, MySQL, API integration, Linux
-- **Machine Learning & Data Science**: TensorFlow, PyTorch, Keras, Scikit-learn
-- **Cloud Platforms**: Google Cloud Platform (GCP)
+- **Languages**: Python, Java, SQL, HTML5, CSS, JavaScript
+- **Frameworks**: Flask, TensorFlow, PyTorch, NumPy, Scikit-learn
+- **Tools**: Git, Docker, AWS, Jira
+- **Specialties**: AI Development, API Security, Machine Learning
 
 ## Top Projects! 
 
@@ -18,8 +17,16 @@ Engineered an AI-powered app using the Hume AI API to analyze vocal tones and fa
 ### [SJFit](https://github.com/1300Sarthak/SJFIT)
 Developed an AI-powered fitness app using MediaPipe for pose estimation and CNNs for analyzing joint angles and predicting exercise performance. Utilized OpenCV for real-time video feedback, improving form detection and movement classification by 20%. Integrated NumPy for efficient data handling and provided real-time feedback on workout progress.
 
-## Relevant Experience
 
+### [Mass Shooting Predictor](https://github.com/1300Sarthak/CS171)
+Developed a predictive model to analyze and forecast U.S. gun violence trends, utilizing machine learning algorithms including KNN, Logistic Regression, Decision Trees, and SVMs. Currently working on integrating the Google Maps API to visualize high-risk areas, providing actionable insights for targeted safety interventions.
+
+
+
+
+
+## Relevant Experience
+- **Software Engineering Intern** at Cequence Security: Incoming intern, preparing to contribute to the development and testing of API security solutions using Java, focusing on enhancing compliance features and strengthening system security.
 - **Director of Outreach** at Association for Computing Machinery (ACM), SJSU: Increased event attendance by 40%, secured sponsorships, and managed social media campaigns, boosting online engagement by 20%.
 - **Project Lead** at HackToHackathon: Led 15+ hackathons with 10,000+ participants, awarding $500,000+ in prizes. Partnered with Wolfram, Postman, and Desmos to provide valuable resources.
 - **Coding Instructor** at Code Ninjas: Led instructional sessions for students aged 3-14, fostering creativity and technical proficiency, with a 25% improvement in coding competency.
