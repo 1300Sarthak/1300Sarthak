@@ -32,3 +32,4 @@ Developed an AI-powered fitness app using MediaPipe for pose estimation and CNNs
 ## Contact
 - **LinkedIn**: [linkedin.com/in/sarsethi](https://www.linkedin.com/in/sarsethi)
 - **GitHub**: [github.com/1300Sarthak](https://github.com/1300Sarthak)
+- **Website**:[sarthaksethi.lol](https://sarthaksethi.lol)
