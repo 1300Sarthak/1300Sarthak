@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Javascript, Firebase, Springboot**
 
-- 👨‍💻 All of my projects are available at [www.sarthaksethi.lol](www.sarthaksethi.lol)
+- 👨‍💻 All of my projects are available at [sarthaksethi.lol](https:/sarthaksethi.lol)
 
 - 💬 Ask me about **Java, Python, ML/AI**
 
 - 📫 How to reach me **sarthakluv@gmail.com**
 
-- 📄 View My Resume! [Reume](https://drive.google.com/file/d/13IJy90ocboa0emQsWrdPz-xbS2RZzM20/view?usp=sharing)
+- 📄 View My Resume! [Resume](https://drive.google.com/file/d/13IJy90ocboa0emQsWrdPz-xbS2RZzM20/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
