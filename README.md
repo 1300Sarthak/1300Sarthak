@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarthak!</h1>
 <h3 align="center">I am an Applied Math Computational major with strong skills in DSA, OOP, API Security, and Machine Learning. Passionate about building scalable software solutions with Java, Python, and SQL.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1300sarthak&label=Profile%20views&color=0e75b6&style=flat" alt="1300sarthak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1300sarthak" alt="1300sarthak" /></a> </p>
-
 - 🔭 I’m currently working on [SJSU Study Group Finder](https://github.com/1300Sarthak/SJSUStudyGroup)
 
 - 🌱 I’m currently learning **Javascript, Firebase, Springboot**
-
-- 🤝 I’m looking for help with [Mass Shooting Predictor](https://github.com/1300Sarthak/CS171)
 
 - 👨‍💻 All of my projects are available at [www.sarthaksethi.lol](www.sarthaksethi.lol)
 
