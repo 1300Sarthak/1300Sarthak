@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sarthakluv@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13IJy90ocboa0emQsWrdPz-xbS2RZzM20/view?usp=sharing](https://drive.google.com/file/d/13IJy90ocboa0emQsWrdPz-xbS2RZzM20/view?usp=sharing)
+- 📄 View My Resume! [Reume](https://drive.google.com/file/d/13IJy90ocboa0emQsWrdPz-xbS2RZzM20/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
