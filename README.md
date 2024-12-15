@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarthak Sethi! :)
+Hi There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sarthak Sethi :)
 =====================================================================================================================================
 
-Applied Math Computational and Computer Science Student!
+I am an Applied Math Computational and Computer Science Student!
 --------------------------------------------------------
 
 I am a developer with strong skills in data structures, algorithms, and machine learning, with a focus on Python, Java, and SQL. Passionate about creating efficient solutions in data processing, computer vision, and AI-powered applications.
