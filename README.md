@@ -1,10 +1,8 @@
 Hi There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sarthak Sethi :)
 =====================================================================================================================================
 
-I am an Applied Math Computational and Computer Science Student!
+Applied Math Computational and Computer Science Student, Interested in Data Science and Machine Learning! 
 --------------------------------------------------------
-
-I am a developer with strong skills in data structures, algorithms, and machine learning, with a focus on Python, Java, and SQL. Passionate about creating efficient solutions in data processing, computer vision, and AI-powered applications.
 
 * 🌍  I'm based in San Jose, CA
 * 🖥️  See my portfolio at [My Site!](http://sarthaksethi.lol)
@@ -12,6 +10,11 @@ I am a developer with strong skills in data structures, algorithms, and machine 
 * 🚀  I'm currently working on [SJSU Study Group](http://https://github.com/1300Sarthak/SJSUStudyGroup)
 * 🧠  I'm learning Springboot, Operating Systems (theory), Javascript, Firebase, Advance SQL, Front-end development
 * 🤓  Recent project I made recently for fun [Uzz Converter!](https://uzz-converter.vercel.app/)
+
+
+### Machine Learning & Data Science:
+
+* Proficient in Python, TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, and NumPy for machine learning and data science tasks. Familiar with Docker, AWS, and Flask for deployment and web integration.
 
 ### Skills
 
