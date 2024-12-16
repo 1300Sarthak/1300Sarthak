@@ -7,7 +7,7 @@ Applied Math Computational and Computer Science Student, Interested in Data Scie
 * 🌍  I'm based in San Jose, CA
 * 🖥️  See my portfolio at [My Site!](http://sarthaksethi.lol)
 * ✉️  You can contact me at [sarthakluv@gmail.com](mailto:sarthakluv@gmail.com)
-* 🚀  I'm currently working on [SJSU Study Group](http://https://github.com/1300Sarthak/SJSUStudyGroup)
+* 🚀  I'm currently working on [SJSU Study Group](https://github.com/1300Sarthak/SJSUStudyGroup)
 * 🧠  I'm learning Springboot, Operating Systems (theory), Javascript, Firebase, Advance SQL, Front-end development
 * 🤓  Recent project I made recently for fun [Uzz Converter!](https://uzz-converter.vercel.app/)
 
