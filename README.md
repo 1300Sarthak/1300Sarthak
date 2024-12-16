@@ -1,7 +1,7 @@
 Hello There! I am Sarthak Sethi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
-Applied Math Computational and Computer Science Student, Interested in Data Science and Machine Learning! 
+Applied Math Computational and Computer Science Student
 --------------------------------------------------------
 
 * 🌍  I'm based in San Jose, CA
