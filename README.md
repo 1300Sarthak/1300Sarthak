@@ -1,10 +1,7 @@
 Hello There! I am Sarthak Sethi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
-Applied Math Computational and Computer Science Student
---------------------------------------------------------
-
-* 🌍  I'm based in San Jose, CA
+* 🌍  I'm based in the Bay Area, CA! 
 * 🖥️  See my portfolio at [My Site!](http://sarthaksethi.lol)
 * ✉️  You can contact me at [sarthakluv@gmail.com](mailto:sarthakluv@gmail.com)
 
