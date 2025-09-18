@@ -2,8 +2,9 @@ Hello There! I am Sarthak Sethi! ![](https://user-images.githubusercontent.com/1
 =====================================================================================================================================
 
 * 🌍  I'm based in the Bay Area, CA! 
-* 🖥️  See my portfolio at [My Site!](http://sarthaksethi.lol)
+* 🖥️  See my portfolio at [My Site!](http://www.sarthaksethi.lol)
 * ✉️  You can contact me at [sarthakluv@gmail.com](mailto:sarthakluv@gmail.com)
+* You can set up a call with me at [Link](https://www.cal.com/sxthak)
 
 ### Socials
 
